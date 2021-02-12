@@ -7,3 +7,6 @@
 [submodule "TDS744A"]
 	path = TDS744A
 	url = git@github.com:snhobbs/TDS744A.git
+[submodule "LabJackPython"]
+	path = LabJackPython
+	url = git@github.com:labjack/LabJackPython
