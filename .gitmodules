@@ -1,0 +1,9 @@
+[submodule "prologix-gpib-ethernet"]
+	path = prologix-gpib-ethernet
+	url = git@github.com:snhobbs/prologix-gpib-ethernet.git
+[submodule "HP89400"]
+	path = HP89400
+	url = git@github.com:snhobbs/HP89400.git
+[submodule "TDS744A"]
+	path = TDS744A
+	url = git@github.com:snhobbs/TDS744A.git
